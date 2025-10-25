@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the schedule of the required readings for the course,
   and provides links to handouts and additional references.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
